@@ -181,10 +181,27 @@ img.large {
   color: #404040;
 }
 
+/* Alert */
 .success {
   color: #20a020;
 }
 
-.error {
+.danger {
+  color: #a02020;
+}
+
+.alert {
+  border: 0.1rem solid transparent;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.alert-info {
+  background-color: #e0e0ff;
+  color: #2020a0;
+}
+
+.alert-danger {
+  background-color: #ffe0e0e0;
   color: #a02020;
 }

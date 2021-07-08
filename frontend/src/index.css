@@ -232,6 +232,11 @@ img.large {
   color: #a02020;
 }
 
+.alert-success {
+  background-color: #eeffe0;
+  color: #20a020;
+}
+
 /* Form */
 
 .form {
